@@ -12,6 +12,7 @@ class CaixaDaLanchonete {
             combo1: 9.50,
             combo2: 7.50
         };
+        
         // Definir os itens extras e seus itens principais correspondentes
         this.itensExtras = {
             extraChantily: 'sanduiche',
